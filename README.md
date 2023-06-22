@@ -1,1 +1,1 @@
-# new_pdv_db_scripts
+# DATABASE SCRIPTS REPOSITORY
