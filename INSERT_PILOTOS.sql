@@ -14,7 +14,7 @@ PIL_VOLTAS_RAPIDAS #int
 VALUES(
 "Felipe", #PIL_NOME - nome do piloto
 "Almeida", #PIL_SOBRENOME - sobrenome do piloto
-1, #PIL_EQUIPE - id da equipe
+4, #PIL_EQUIPE - id da equipe
 10, #PIL_PODIOS - número de pódios
 100, #PIL_PONTOS_TOTAIS - pontos totais conquistados
 20, #PIL_CORRIDAS_OFICIAIS - total de corridas disputadas
